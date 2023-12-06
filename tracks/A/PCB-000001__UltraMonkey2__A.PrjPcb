@@ -1,0 +1,70 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = UltraMonkey2__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = UltraMonkey2__A.PcbDoc
+
+[Document3]
+DocumentPath = UltraMonkey2__Fab_A.PCBDwf
+
+[Document4]
+DocumentPath = UltraMonkey2__Assy_A.PCBDwf
+
+[Document5]
+DocumentPath = UltraMonkey2__A.OutJob
+
+[Document6]
+DocumentPath = UltraMonkey2__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xlsx
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = CCA-000001
+
+[Parameter2]
+Name = CCA_TITLE
+Value = UltraMonkey2
+
+[Parameter3]
+Name = PCB_PART_NUMBER
+Value = UltraMonkey2
+
+[Parameter4]
+Name = PCB_VERSION
+Value = A
+
+[Parameter5]
+Name = PROJECT_ENGINEER
+Value = plexus
+
+[Parameter6]
+Name = PROJECT_STATUS
+Value = PROTOTYPE
+
+[Parameter7]
+Name = PROJECT_TITLE_LINE_1
+Value = RT685 Audio Platform
+
+[Parameter8]
+Name = PROJECT_TITLE_LINE_2
+Value = 
+
+[Parameter9]
+Name = SCH_DATE
+Value = 2023-12-06
+
+[ProjectVariant1]
+UniqueID = 196C2CAC-E6E9-4C22-928F-535ABEEEBEA6
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
